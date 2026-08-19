@@ -65,7 +65,7 @@ sections:
         - title: Visiting Researcher
           company: The Pennsylvania State University
           company_url: ''
-          company_logo: org-V
+          company_logo: org-x
           location: University Park, PA 16802, United States
           date_start: May
           date_end: July, 2025

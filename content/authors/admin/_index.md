@@ -59,19 +59,19 @@ skills:
         icon: database
         icon_pack: fas
  
-       -name: Experiemental 
+      - name: Experiemental 
         description: Prototype fabrication and verification with VNA, Anechoic Chamber, Oscilloscope,and Vector Signal Analyzer
         percent: 100
         icon: chart-line
         icon_pack: fas
 
-       -name: System integration
+      - name: System integration
         description: USRP, PlutoSDR, and GNU Radio for wireless communication and radar 
         percent: 40
         icon: database
         icon_pack: fas
 
-       -name: Programming
+      - name: Programming
         description: Python and MATLAB for signal processing
         percent: 40
         icon: python

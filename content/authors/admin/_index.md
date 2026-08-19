@@ -55,7 +55,7 @@ skills:
     items:
       - name: RF Design
         description: Reconfigurable metasurface, antenna and RF network design using CST Microwave       Studio,Altair Feko and Keysight ADS.
-        percent: 80
+        percent: 100
         icon: database
         icon_pack: fas
  
@@ -67,14 +67,13 @@ skills:
 
       - name: System integration
         description: USRP, PlutoSDR, and GNU Radio for wireless communication and radar 
-        percent: 40
+        percent: 90
         icon: database
         icon_pack: fas
 
-  - name: Programming
-    items:
+      - name: Programming
         description: Python and MATLAB for signal processing
-        percent: 40
+        percent: 80
         icon: python
         icon_pack: fab
 

@@ -3,7 +3,8 @@ title: "A Digitally Reconfigurable Metasurface for Communication in Scatter-Rich
 
 authors:
 - K. J. Vinoy
-- Saurav Roy et. al.
+- Saurav Roy 
+- et. al.
 
 date: "2023-06-26T00:00:00Z"
 doi: ""

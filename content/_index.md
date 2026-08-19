@@ -94,8 +94,8 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-          date_end: ''
-          date_start: '2023-01-25'
+        - date_end: ''
+          date_start: '2023-01-01'
           description: ''
           icon: medal
           organization: Ministry of Education, Govt. of India
@@ -103,21 +103,21 @@ sections:
           title: Prime Minister’s Research Fellowship (PMRF)
           url: ''
      
-          date_end: ''
+         -date_end: ''
           date_start: '2021-01-01'
           description: ''
           icon: medal
           organization: IEEE MAPCON 2025
           title: Best Student Paper Award (Second Place)
 
-          date_end: ''
+         -date_end: ''
           date_start: '2025-12-12'
           description: ''
           icon: ribbon
           organization: IEEE MAPCON 2022
           title: Finalist in the Best Student Paper Award Competition
 
-          date_end: ''
+         -date_end: ''
           date_start: '2011-11-01'
           description: ''
           icon: medal

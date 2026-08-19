@@ -67,8 +67,8 @@ sections:
           company_url: ''
           company_logo: org-x
           location: University Park, PA 16802, United States
-          date_start: '2020-05-01'
-          date_end: '2020-07-01'
+          date_start: '2025-05-01'
+          date_end: '2025-07-01'
           description: Participated in a collaborative project on 'Sensing and Communications with RIS’ with Prof. Ram Narayanan's group, and worked on AI-assisted channel prediction for metasurface-enabled media-based modulation.
 
         - title: Air Traffic Controller

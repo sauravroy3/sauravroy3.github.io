@@ -104,21 +104,21 @@ sections:
           url: ''
 
         - date_end: ''
-          date_start: '2021-01-01'
+          date_start: '2025-01-01'
           description: ''
           icon: medal
           organization: IEEE MAPCON 2025
           title: Best Student Paper Award (Second Place)
 
         - date_end: ''
-          date_start: '2025-12-12'
+          date_start: '2022-12-12'
           description: ''
           icon: ribbon
           organization: IEEE MAPCON 2022
           title: Finalist in the Best Student Paper Award Competition
 
         - date_end: ''
-          date_start: '2011-11-01'
+          date_start: '2012-11-01'
           description: ''
           icon: medal
           organization: Undergraduate studies

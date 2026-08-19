@@ -27,7 +27,7 @@ abstract: ''
 summary: ''
 
 tags:
-- Source Themes
+# - Source Themes
 featured: false
 
 # links:

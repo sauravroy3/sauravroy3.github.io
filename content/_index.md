@@ -76,8 +76,8 @@ sections:
           company_url: ''
           company_logo: org-X
           location: NSCBI Airport, Kolkata, West Bengal 700052, India.
-          date_start: 2015
-          date_end: 2019
+          date_start: '2015-10-01'
+          date_end: '2019-04-01'
           description: Coordinated with both sky and earth to facilitate many smooth jounrneys.
     design:
       columns: '2'

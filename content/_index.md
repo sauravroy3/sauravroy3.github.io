@@ -62,27 +62,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Visiting Researcher
+          company: The Pennsylvania State University
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+          company_logo: org-V
+          location: University Park, PA 16802, United States
+          date_start: May
+          date_end: July, 2025
+          description: Participated in a collaborative project on 'Sensing and Communications with RIS’ with Prof. Ram Narayanan's group, and worked on AI-assisted channel prediction for metasurface-enabled media-based modulation.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Air Traffic Controller
+          company: Airports Authority of India,
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-X
+          location: NSCBI Airport, Kolkata, West Bengal 700052, India.
+          date_start: 2015
+          date_end: 2019
+          description: Coordinated with both sky and earth to facilitate many smooth jounrneys.
     design:
       columns: '2'
   - block: accomplishments
@@ -98,33 +94,37 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-01-25'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: medal
+          organization: Ministry of Education, Govt. of India
+          #organization_url: https://www.coursera.org
+          title: Prime Minister’s Research Fellowship (PMRF)
           url: ''
-        - certificate_url: https://www.edx.org
+     
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          icon: medal
+          organization: IEEE MAPCON 2025
+          title: Best Student Paper Award (Second Place)
+
+          date_end: ''
+          date_start: '2025-12-12'
+          description: ''
+          icon: ribbon
+          organization: IEEE MAPCON 2022
+          title: Finalist in the Best Student Paper Award Competition
+
+          date_end: ''
+          date_start: '2011-11-01'
+          description: ''
+          icon: medal
+          organization: Undergraduate studies
+          title: Indian Oil Merit Scholarship
+         
+
     design:
       columns: '2'
   - block: collection

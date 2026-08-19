@@ -21,7 +21,7 @@ role: Doctoral Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: IISc Bengaluru
+  - name: Indian Institute of Science
     url: https://iisc.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,7 +29,8 @@ bio: My research interests include Metamaterials for RF applications, antenna de
 
 # Interests to show in About widget
 interests:
-  - RF Metamaterials 
+  - System Design for Wireless Communication and Sensing 
+  - Reconfigurable Metasurface
   - Microwave Imaging
   - Particle Swarm Optimization
   - Software-Defined Radio 
@@ -38,35 +39,45 @@ interests:
 education:
   courses:
     - course: PhD in ECE
-      institution: IISc Bengaluru
-      year: 2020-
-    - course: M.Tech (Research) in ECE (Electrical Communication Engineering)
-      institution: Indian Institute of Science (IISc) Bengaluru
-      year: 2020-
+      institution: Indian Institute of Science
+      year: 2022-
+    - course: MTech (Research) in ECE (Electrical Communication Engineering)
+      institution: Indian Institute of Science (IISc) 
+      year: 2020-2022
     - course: BE in ETC (Electronics and Telecommunication Engineering)
       institution: Indian Institute of Engineering Science and Technology (IIEST), Shibpur
-      year: 2015
+      year: 2011-2015
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-# skills:
-  # - name: Technical
-  #   items:
-  #     - name: Python
-  #       description: ''
-  #       percent: 80
-  #       icon: python
-  #       icon_pack: fab
-  #     - name: Data Science
-  #       description: ''
-  #       percent: 100
-  #       icon: chart-line
-  #       icon_pack: fas
-  #     - name: SQL
-  #       description: ''
-  #       percent: 40
-  #       icon: database
-  #       icon_pack: fas
+skills:
+  - name: Technical
+     items:
+      - name: RF Design
+         description: Reconfigurable metasurface, antenna and RF network design using CST Microwave Studio,
+         Altair Feko and Keysight ADS.
+         percent: 80
+         icon: database
+         icon_pack: fas
+ 
+       - name: Experiemental 
+         description: Prototype fabrication and verification with VNA, Anechoic Chamber, Oscilloscope, and Vector Signal Analyzer
+         percent: 100
+         icon: chart-line
+         icon_pack: fas
+
+       - name: System integration
+        description: USRP, PlutoSDR, and GNU Radio for wireless communication and radar 
+         percent: 40
+         icon: database
+         icon_pack: fas
+
+       - name: Programming
+        description: Python and MATLAB for signal processing
+         percent: 40
+         icon: python
+         icon_pack: fab
+
   # - name: Hobbies
   #   color: '#eeac02'
   #   color_border: '#f0bf23'
@@ -121,5 +132,24 @@ social:
 highlight_name: true
 ---
 
-Saurav Roy is currently a PhD student of Microwave enginnering at the Microwave Lab, ECE Dept, IISc Bengaluru. His research interests include metasurface, microwave imaging and design optimization. He is a founding member of the IEEE MTT/AP-S Student Branch Chapter, IISc Bengaluru. He is also a recipient of the prestigious PMRF fellowship for the doctoral study.
+Saurav Roy was born in Nasigram, West Bengal,
+India. He graduated from the Indian Institute
+of Engineering Science and Technology (IIEST),
+Shibpur, India, with First Class (Honors) in 2015. He
+worked as an Air Traffic Controller with the Airports
+Authority of India at NSCBI Airport, Kolkata, India,
+until 2019. Since 2020, he has been pursuing his
+MTech (Research) and Doctoral studies at the Indian
+Institute of Science (IISc) in Bengaluru, India.
+He was awarded the prestigious Prime Minister’s
+Research Fellowship in 2023 for his doctoral studies.
+He was a founding member of the IEEE MTT/AP-S Student Branch Chapter at
+IISc. He worked as a visiting researcher at the Pennsylvania State University,
+University Park, USA, in the summer of 2025, where he participated in
+a collaborative project on AI approaches for RIS-enabled communication
+systems. He received the Best Student Paper Award (second place) in
+IEEE MAPCON 2025. He has published several conference papers and has
+been granted an Indian patent. His research interests are system design for
+the next generation of wireless communication and sensing, reconfigurable
+metasurface, and antenna design.
 {style="text-align: justify;"}

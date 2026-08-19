@@ -71,7 +71,8 @@ skills:
         icon: database
         icon_pack: fas
 
-      - name: Programming
+  - name: Programming
+    items:
         description: Python and MATLAB for signal processing
         percent: 40
         icon: python

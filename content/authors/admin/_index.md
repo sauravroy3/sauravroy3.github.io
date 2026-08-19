@@ -52,7 +52,7 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
-     items:
+    items:
       - name: RF Design
          description: Reconfigurable metasurface, antenna and RF network design using CST Microwave Studio,
          Altair Feko and Keysight ADS.
@@ -67,13 +67,13 @@ skills:
          icon_pack: fas
 
        - name: System integration
-        description: USRP, PlutoSDR, and GNU Radio for wireless communication and radar 
+         description: USRP, PlutoSDR, and GNU Radio for wireless communication and radar 
          percent: 40
          icon: database
          icon_pack: fas
 
        - name: Programming
-        description: Python and MATLAB for signal processing
+         description: Python and MATLAB for signal processing
          percent: 40
          icon: python
          icon_pack: fab

@@ -65,7 +65,7 @@ sections:
         - title: Visiting Researcher
           company: The Pennsylvania State University
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: University Park, PA 16802, United States
           date_start: '2025-05-01'
           date_end: '2025-07-01'
@@ -74,7 +74,7 @@ sections:
         - title: Air Traffic Controller
           company: Airports Authority of India,
           company_url: ''
-          company_logo: org-X
+          company_logo: ''
           location: NSCBI Airport, Kolkata, West Bengal 700052, India.
           date_start: '2015-10-01'
           date_end: '2019-04-01'

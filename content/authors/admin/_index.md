@@ -140,6 +140,7 @@ Authority of India at NSCBI Airport, Kolkata, India,
 until 2019. Since 2020, he has been pursuing his
 MTech (Research) and Doctoral studies at the Indian
 Institute of Science (IISc) in Bengaluru, India.
+
 He was awarded the prestigious Prime Minister’s
 Research Fellowship in 2023 for his doctoral studies.
 He was a founding member of the IEEE MTT/AP-S Student Branch Chapter at
@@ -147,8 +148,6 @@ IISc. He worked as a visiting researcher at the Pennsylvania State University,
 University Park, USA, in the summer of 2025, where he participated in
 a collaborative project on AI approaches for RIS-enabled communication
 systems. He received the Best Student Paper Award (second place) in
-IEEE MAPCON 2025. He has published several conference papers and has
-been granted an Indian patent. His research interests are system design for
-the next generation of wireless communication and sensing, reconfigurable
-metasurface, and antenna design.
+IEEE MAPCON 2025. He has published several conference papers, one journal paper and has
+been granted an Indian patent. 
 {style="text-align: justify;"}

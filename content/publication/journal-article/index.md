@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://doi.org/10.13140/RG.2.2.16729.28001'
+url_pdf: 'https://doi.org/10.1109/TVT.2026.3725378'
 url_code: ''
 url_dataset: ''
 url_poster: ''

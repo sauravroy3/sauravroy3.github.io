@@ -14,7 +14,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2025-07-01T00:00:00Z'
-doi: 'https://doi.org/10.1109/AP-S/CNC-USNC-URSI55537.2025.11266046'
+doi: '10.1109/AP-S/CNC-USNC-URSI55537.2025.11266046'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-01-01T00:00:00Z'
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'doi.org/10.1109/AP-S/CNC-USNC-URSI55537.2025.11266046'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

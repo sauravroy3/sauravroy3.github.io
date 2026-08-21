@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'doi.org/10.1109/AP-S/CNC-USNC-URSI55537.2025.11266046'
 url_code: ''
 url_dataset: ''
 url_poster: ''

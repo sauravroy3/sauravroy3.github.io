@@ -7,7 +7,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2026-09-01T00:00:00Z"
-doi: ""
+doi: 'doi.org/10.1109/TVT.2026.3725378'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-01-01T00:00:00Z"
@@ -32,8 +32,8 @@ featured: false
 
 # links:
 # - name: ""
-url: 'doi.org/10.1109/TVT.2026.3725378'
-url_pdf: ''
+url: ''
+url_pdf: 'doi.org/10.1109/TVT.2026.3725378'
 url_code: ''
 url_dataset: ''
 url_poster: ''

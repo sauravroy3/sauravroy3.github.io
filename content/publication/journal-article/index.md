@@ -32,8 +32,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: 'https://doi.org/10.1109/TVT.2026.3725378'
+url: 'https://doi.org/10.1109/TVT.2026.3725378'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
